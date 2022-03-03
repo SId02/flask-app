@@ -4,7 +4,7 @@
 ####installflask
 
 '''python
-pipinstallflask
+pip install flask
 '''
 
 
